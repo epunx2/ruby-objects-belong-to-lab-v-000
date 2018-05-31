@@ -1,4 +1,4 @@
-## My artist class will include a name and genre
+## My artist class will include a name
 ## This will relate to Songs
 
 class Artist
